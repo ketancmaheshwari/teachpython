@@ -1,0 +1,20 @@
+Friday is here and it is time to get ready for another fun-filled coding classes. The link for Saturday's class is:
+
+https://meet.google.com/pdh-gifi-gih
+
+Timings are same as follows:
+
+8 PM India
+10:30 AM EST / Toronto
+7:30 AM PDT / California
+4:30 PM Brussels / GMT+2
+
+We will learn about:
+- Files
+- File operations
+- open, close, read from, write to files
+
+We will also try to incorporate previously learned topics (eg. lists, user-defined functions, etc.) as much as we can in our programs.
+
+Make sure you have solved this week's practice problems.
+
