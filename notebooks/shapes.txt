@@ -1,0 +1,3 @@
+circle A perfectly round shape
+square A shape with four equal sides
+triangle A shape with three sides and three angles
